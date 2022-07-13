@@ -4,7 +4,7 @@
 #include "stack.h"
 
 int main(){
-    // intializing or creating stack with size = 15
+    // intializing or creating stack with size = 9
     struct Stack* stack = createStack(9);
     
     // pushing values into the stack
