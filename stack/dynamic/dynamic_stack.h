@@ -1,3 +1,6 @@
+// yet working on this
+// a header file for creating dynamic stack and using basic stack functions 
+
 #ifndef dynamic_stack_h
 #define dynamic_stack_h
 
